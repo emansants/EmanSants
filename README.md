@@ -20,7 +20,7 @@ Map<String, Object> emanuel = Map.ofEntries(
 
 <img src="./assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
-### Contats <img src="./assets/2.gif" width="40">
+### Contats <img src="./assets/2.gif" width="20">
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
