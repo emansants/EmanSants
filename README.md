@@ -1,14 +1,8 @@
 <h2> Hi there, I'm Emanuel <img src="./assets/7.gif" width="50"></h2>
-<p><em>
-  Software Engineering <img src="./assets/9.gif" width="30">
+<em>
+  
 </br>
-  01010100 01101000 01100101 01110010 01100101 00100000 01101001 01110011 00100000 01101110 01101111 01110100 01101000 01101001 01101110 01100111 00100000 01100011 01110101 01110010 01101001 01101111 01110101 01110011 00100000 01101000 01100101 01110010 01100101 00101110 00101110 00101110 <img src="./assets/2.gif" width="30">
-</p>
-
-<p align="left">
-  <a href="https://github.com/EmanSants" style="text-decoration: none;"><img src="https://img.shields.io/github/followers/EmanSants?style=flat&logo=github" alt="GitHub followers" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+  01010100 01101000 01100101 01110010 01100101 00100000 01101001 01110011 00100000 01101110 01101111 01110100 01101000 01101001 01101110 01100111 00100000 01100011 01110101 01110010 01101001 01101111 01110101 01110011 00100000 01101000 01100101 01110010 01100101 00101110 00101110 00101110 <img src="./assets/2.gif" width="40">
 
 <img align='right' src="./assets/3.gif" width="320">
 
@@ -22,5 +16,11 @@ Map<String, Object> emanuel = Map.ofEntries(
     Map.entry("architecture", List.of("Microservices", "REST APIs", "Hexagonal Architecture")),
     Map.entry("challenge", "Deepening my knowledge in Hexagonal Architecture, REST APIs and Microservices")
 );
+```
 
 <img src="./assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
+
+### Contats
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
